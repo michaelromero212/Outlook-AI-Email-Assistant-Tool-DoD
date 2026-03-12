@@ -6,22 +6,31 @@ Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude 
 
 ---
 
-## 📸 Screenshots
+## 📸 Gallery
 
-| Priority Dashboard | Contract Tags View |
-| :---: | :---: |
-| <img src="screenshots/Screenshot%202026-03-04%20at%202.34.48%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%202.35.01%E2%80%AFPM.jpg" /> |
-| *AI-scored priority inbox sorting emails by urgency.* | *Auto-detected contract numbers (TO-12, GS-35F) and project tags.* |
+### Priority Dashboard
+*AI-scored priority inbox sorting emails by urgency.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.34.48%E2%80%AFPM.jpg" width="100%" />
 
-| Reply Queue | Email Detail Panel |
-| :---: | :---: |
-| <img src="screenshots/Screenshot%202026-03-04%20at%202.35.22%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%201.08.55%E2%80%AFPM.jpg" /> |
-| *Surfaces emails waiting on a response, ranked by sender role.* | *Detailed view of email contents and AI-generated insights.* |
+### Contract Tags View 
+*Auto-detected contract numbers (TO-12, GS-35F) and project tags.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.35.01%E2%80%AFPM.jpg" width="100%" />
 
-| AI Assistant Chat | Login Screen |
-| :---: | :---: |
-| <img src="screenshots/Screenshot%202026-03-04%20at%202.36.19%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" /> |
-| *Freeform Q&A over your inbox with cited sources.* | *Secure Microsoft 365 OAuth authentication.* |
+### Reply Queue
+*Surfaces emails waiting on a response, ranked by sender role.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.35.22%E2%80%AFPM.jpg" width="100%" />
+
+### Email Detail Panel
+*Detailed view of email contents and AI-generated insights.*
+<img src="screenshots/Screenshot%202026-03-04%20at%201.08.55%E2%80%AFPM.jpg" width="100%" />
+
+### AI Assistant Chat
+*Freeform Q&A over your inbox with cited sources.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.36.19%E2%80%AFPM.jpg" width="100%" />
+
+### Login Screen
+*Secure Microsoft 365 OAuth authentication.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" width="100%" />
 
 *(Additional views are available in the `screenshots/` directory).*
 
