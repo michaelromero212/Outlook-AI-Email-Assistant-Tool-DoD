@@ -8,6 +8,10 @@ Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude 
 
 ## 📸 Gallery
 
+### Login Screen
+*Secure Microsoft 365 OAuth authentication.*
+<img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" width="100%" />
+
 ### Priority Dashboard
 *AI-scored priority inbox sorting emails by urgency.*
 <img src="screenshots/Screenshot%202026-03-04%20at%202.34.48%E2%80%AFPM.jpg" width="100%" />
@@ -27,10 +31,6 @@ Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude 
 ### AI Assistant Chat
 *Freeform Q&A over your inbox with cited sources.*
 <img src="screenshots/Screenshot%202026-03-04%20at%202.36.19%E2%80%AFPM.jpg" width="100%" />
-
-### Login Screen
-*Secure Microsoft 365 OAuth authentication.*
-<img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" width="100%" />
 
 *(Additional views are available in the `screenshots/` directory).*
 
