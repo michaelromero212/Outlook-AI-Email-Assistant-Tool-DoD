@@ -1,0 +1,12 @@
+
+> caci-mail-intelligence@1.0.0 dev
+> vite --host 0.0.0.0
+
+
+  VITE v5.4.21  ready in 143 ms
+
+  ➜  Local:   http://localhost:5173/
+  ➜  Network: http://192.168.6.231:5173/
+  ➜  Network: http://192.168.64.1:5173/
+  ➜  Network: http://169.254.196.130:5173/
+  ➜  press h + enter to show help
