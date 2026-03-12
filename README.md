@@ -1,6 +1,29 @@
 # Outlook-AI-Email-Assistant-Tool-DoD
 
-AI-powered email analysis tool for government contractors. Built with Microsoft Graph API, FastAPI, React, and Claude.
+**Outlook-AI-Email-Assistant-Tool-DoD** is an AI-powered email analysis tool tailored for government contractors and the Department of Defense (DoD) ecosystem. It securely integrates with Microsoft Graph API to categorize, prioritize, and enrich incoming emails, allowing professionals to quickly identify critical communications, track contract deliverables, and interact with an intelligent AI assistant.
+
+Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude AI**.
+
+---
+
+## 📸 Screenshots
+
+| Priority Dashboard | Contract Tags View |
+| :---: | :---: |
+| <img src="screenshots/Screenshot%202026-03-04%20at%202.34.48%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%202.35.01%E2%80%AFPM.jpg" /> |
+| *AI-scored priority inbox sorting emails by urgency.* | *Auto-detected contract numbers (TO-12, GS-35F) and project tags.* |
+
+| Reply Queue | Email Detail Panel |
+| :---: | :---: |
+| <img src="screenshots/Screenshot%202026-03-04%20at%202.35.22%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%201.08.55%E2%80%AFPM.jpg" /> |
+| *Surfaces emails waiting on a response, ranked by sender role.* | *Detailed view of email contents and AI-generated insights.* |
+
+| AI Assistant Chat | Login Screen |
+| :---: | :---: |
+| <img src="screenshots/Screenshot%202026-03-04%20at%202.36.19%E2%80%AFPM.jpg" /> | <img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" /> |
+| *Freeform Q&A over your inbox with cited sources.* | *Secure Microsoft 365 OAuth authentication.* |
+
+*(Additional views are available in the `screenshots/` directory).*
 
 ---
 
