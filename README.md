@@ -8,6 +8,10 @@ Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude 
 
 ## 📸 Gallery
 
+### Email Detail Panel
+*Detailed view of email contents and AI-generated insights.*
+<img src="screenshots/Screenshot%202026-03-04%20at%201.08.55%E2%80%AFPM.jpg" width="100%" />
+
 ### Login Screen
 *Secure Microsoft 365 OAuth authentication.*
 <img src="screenshots/Screenshot%202026-03-04%20at%202.37.07%E2%80%AFPM.jpg" width="100%" />
@@ -23,10 +27,6 @@ Built with **FastAPI**, **React**, **Microsoft Graph API**, and **Gemini/Claude 
 ### Reply Queue
 *Surfaces emails waiting on a response, ranked by sender role.*
 <img src="screenshots/Screenshot%202026-03-04%20at%202.35.22%E2%80%AFPM.jpg" width="100%" />
-
-### Email Detail Panel
-*Detailed view of email contents and AI-generated insights.*
-<img src="screenshots/Screenshot%202026-03-04%20at%201.08.55%E2%80%AFPM.jpg" width="100%" />
 
 ### AI Assistant Chat
 *Freeform Q&A over your inbox with cited sources.*
